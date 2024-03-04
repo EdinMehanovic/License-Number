@@ -148,7 +148,3 @@ def main_bus(repeat = "Y"):
 		repeat = input_center("Would you like to run again (Y/N): ")
 		main_bus(repeat)	
 main_bus()
-
-# Edin Mehanovic 11/20/2023
-# The error correcting portion of this program was a very difficult task to wrap my head around. Figuring out how to use the lists we copy and pasted from our excel sheets was another difficultly I had in the beginning stages of this program. The process itself was enough of a hastle to get through as well. 
-# I have a more in-depth knowledge of how lists work, and how I can more easily use them down the line. 
